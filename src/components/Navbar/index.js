@@ -9,7 +9,7 @@ const Navbar = ({toggle}) => {
         <Nav>
             <NavbarContainer>
                 <NavLogo to="/">
-                <NavImg src={moses} type='video/mp4'/>
+                <NavImg src={moses} alt='moses'/>
                 </NavLogo>
                 <MobileIcon onClick={toggle}>
                   <FaBars/>
@@ -35,3 +35,4 @@ const Navbar = ({toggle}) => {
 };
 
 export default Navbar
+// 2:25:10
