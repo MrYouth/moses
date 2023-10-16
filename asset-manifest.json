@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/moses-website/static/css/main.d7da34c1.css",
-    "main.js": "/moses-website/static/js/main.a7a277ea.js",
-    "static/media/video.mp4": "/moses-website/static/media/video.b6569832cb0e08e8dbde.mp4",
-    "static/media/pak-habib.png": "/moses-website/static/media/pak-habib.93876e1d01f2bbcf73f3.png",
-    "static/media/moses-logo.png": "/moses-website/static/media/moses-logo.4ed5b76e2e7a18efffdb.png",
-    "index.html": "/moses-website/index.html",
-    "main.d7da34c1.css.map": "/moses-website/static/css/main.d7da34c1.css.map",
-    "main.a7a277ea.js.map": "/moses-website/static/js/main.a7a277ea.js.map"
+    "main.css": "/moses/static/css/main.d7da34c1.css",
+    "main.js": "/moses/static/js/main.6cfc9fc3.js",
+    "static/media/video.mp4": "/moses/static/media/video.b6569832cb0e08e8dbde.mp4",
+    "static/media/pak-habib.png": "/moses/static/media/pak-habib.93876e1d01f2bbcf73f3.png",
+    "static/media/moses-logo.png": "/moses/static/media/moses-logo.4ed5b76e2e7a18efffdb.png",
+    "index.html": "/moses/index.html",
+    "main.d7da34c1.css.map": "/moses/static/css/main.d7da34c1.css.map",
+    "main.6cfc9fc3.js.map": "/moses/static/js/main.6cfc9fc3.js.map"
   },
   "entrypoints": [
     "static/css/main.d7da34c1.css",
-    "static/js/main.a7a277ea.js"
+    "static/js/main.6cfc9fc3.js"
   ]
 }
